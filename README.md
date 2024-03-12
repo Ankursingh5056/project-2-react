@@ -29,26 +29,27 @@ Creating a Responsive eCommerce Website using React, JavaScript, JSX, Tailwind C
 <p>👉 User can Signup</p>
 <p>👉 User can get Login</p>
 <p>👉 Without login can't access cart page </p>
-<p>👉 Supporting Night & Day Mode</p>
+
 
 
 <h1>🤸 Process to Create This Project from Scratch</h1>
 <ul>
   <li>Set up a new React project.</li>
-  <li>Install necessary dependencies such as Tailwind CSS and Chakra UI.</li>
+  <li>Install necessary dependencies such as react-router-dom and Chakra UI.</li>
   <li>Design the user interface components using JSX and Chakra UI components.</li>
   <li>Implement functionality using JavaScript to enable shopping features.</li>
-  <li>Apply responsive design principles using Tailwind CSS classes.</li>
+  <li>Apply responsive design principles using Chakara ui classes.</li>
   <li>Test the application on different devices and screen sizes to ensure responsiveness.</li>
   <li>Deploy the project to a hosting service.</li>
 </ul>
 
 <h3>GitHub Repo Link</h3>
-https://github.com/kundankrgupta1/eCommerce-Project/
+https://github.com/kundankrgupta1/eCommerce-Project/ 
 
 <h1>📷 Screenshots</h1>
 <h3>🏠 Home Page</h3>
-<img src="https://raw.githubusercontent.com/kundankrgupta1/eCommerce-Project/main/src/assets/screenshots/home_page_1.png" alt="project-screenshot" width="1000" height="450/">
+<img src="![WhatsApp Image 2024-03-12 at 19 14 23_55577197](https://github.com/Ankursingh5056/project-2-react/assets/140191945/2116b08c-260e-4294-973e-00a60d848e87)
+" alt="project-screenshot" width="1000" height="450/">
 
 <h3>🏠 Home Page 2</h3>
 <img src="https://raw.githubusercontent.com/kundankrgupta1/eCommerce-Project/main/src/assets/screenshots/home_page_2.png" alt="project-screenshot" width="1000" height="450/">
