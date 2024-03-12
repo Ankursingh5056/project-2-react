@@ -48,7 +48,7 @@ https://github.com/kundankrgupta1/eCommerce-Project/
 
 <h1>📷 Screenshots</h1>
 <h3>🏠 Home Page</h3>
-<img src="WhatsApp Image 2024-03-12 at 19 14 23_55577197](https://github.com/Ankursingh5056/project-2-react/assets/140191945/2116b08c-260e-4294-973e-00a60d848e87)
+<img src="Screenshot 2024-03-12 191402](https://github.com/Ankursingh5056/project-2-react/assets/140191945/2f7c3212-a57f-4f48-9aee-35a6172870e0)
 " alt="project-screenshot" width="1000" height="450/">
 
 <h3>🏠 Home Page 2</h3>
